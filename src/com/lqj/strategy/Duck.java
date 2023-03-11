@@ -1,0 +1,28 @@
+package com.lqj.strategy;
+
+/**
+ * @Author luqianjiang
+ * @Date 2023/3/11 9:40
+ * @Description:
+ */
+public abstract class Duck {
+
+    public Duck() {
+
+    }
+
+    public abstract void display();//显示鸭子信息
+
+    public void quack() {
+        System.out.println("鸭子嘎嘎叫~~");
+    }
+
+    public void swim() {
+        System.out.println("鸭子会游泳~~");
+    }
+
+    public void fly() {
+        System.out.println("鸭子会飞翔~~~");
+    }
+
+}

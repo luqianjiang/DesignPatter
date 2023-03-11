@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/lqj/adapter/interfaceadapter/AbsAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/adapter/interfaceadapter/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/adapter/interfaceadapter/Interface4.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/decorator/Espresso.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/decorator/LongBlack.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/decorator/ShortBlack.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/factory/absfactory/pizzastore/order/LDFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/factory/absfactory/pizzastore/order/PizzaStore.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/factory/absfactory/pizzastore/pizza/BJPepperPizza.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/factory/absfactory/pizzastore/pizza/LDCheesePizza.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/factory/absfactory/pizzastore/pizza/LDPepperPizza.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/factory/factorymethod/pizzastore/order/PizzaStore.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/factory/factorymethod/pizzastore/pizza/BJPepperPizza.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/factory/factorymethod/pizzastore/pizza/LDCheesePizza.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/factory/factorymethod/pizzastore/pizza/LDPepperPizza.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/factory/simplefactory/pizzastore/pizza/PepperPizza.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/prototype/improve/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/template/improve/PureSoyaMilk.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/visitor/Fail.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/visitor/Man.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/visitor/Person.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/visitor/Success.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/lqj/visitor/Woman.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
