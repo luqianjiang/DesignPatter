@@ -12,6 +12,7 @@ public class Client {
 
         Phone phone = new Phone();
         phone.charging(new VoltageAdapter());
+        System.out.println("测试");
 
     }
 
